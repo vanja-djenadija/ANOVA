@@ -10,4 +10,3 @@ Iz komandne linije se pozicioniramo u ``` ANOVA/out/artifacts/ANOVA_jar/ ``` i u
 ***Preduslov*** Instalirati  [JavaFX](https://gluonhq.com/products/javafx/)
 
 ![Alt text](/resources/App.PNG?raw=true "ANOVA")
-"# ANOVA-" 
