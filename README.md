@@ -1,4 +1,4 @@
-# POREĐENJE VIŠE SISTEMA – ANOVA I KONTRASTI
+# Poređenje više sistema – ANOVA I KONTRASTI
 
 
 ## Način pokretanja aplikacije
